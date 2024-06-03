@@ -1,0 +1,750 @@
+
+    1. smdt_js
+    2. colt_js
+
+    Learn from both togather
+
+    Use DOCX to 
+        keep track on the topics
+        Note: WWH - What? Why? How?
+
+    Use section_folder for projects
+    DOCX stays outside: in main folder
+
+
+
+
+------------    Contents: smdtMn    ------------
+
+01 - Welcome, Welcome, Welcome!
+02 - JavaScript Fundamentals - Part 1
+03 - JavaScript Fundamentals - Part 2
+04 - How to Navigate This Course
+05 - Developer Skills & Editor Setup
+06 - [OPTIONAL] HTML & CSS Crash Course
+07 - JavaScript in the Browser DOM and Events Fundamentals
+08 - How JavaScript Works Behind the Scenes
+09 - Data Structures, Modern Operators and Strings
+10 - A Closer Look at Functions
+11 - Working With Arrays
+12 - Numbers, Dates, Inti and Timers
+13 - Advanced DOM and Eve
+14 - Object-Oriented Programming (OOP) With JavaScript
+15 - Mapty App OOP, Geolocation, External Libraries, and More!
+16 - Asynchronous JavaScript Promises, AsyncAwait, and AJAX
+17 - Modern JavaScript Development Modules, Tooling, and Functional
+18 - Forkify App Building a Modern Application
+19 - Setting Up Git and Deployment
+
+old 01 Course Introduction
+old 02 JavaScript Language Basics
+old 03 How JavaScript Works Behind the Scenes
+old 04 JavaScript in the Browser, DOM Manipulation and Events
+old 05 Advanced JavaScript, Objects and Functions
+old 06 Putting It All Together, The Budget App Project
+
+
+
+------------    Contents: colt    ------------
+
+1.	Introduction
+2.	JS Values & Variables
+3.	How to Model Data Efficiently
+4.	Controlling Program Logic and Flow
+5.	Capture Collections of Data with Arrays
+6.	Objects - The Core of Javascript
+7.	The World of Loops
+8.	Writing Reusable Code with Functions
+9.	An Advanced Look at Functions
+10.	Apply Functions to Collections of Data
+11.	A Few Miscellaneous JS Features
+12.	Object Methods and the 'This' Keyword 
+13. JS In the Browser - DOM Manipulation
+14.	Twisting the DOM to Our Will!
+15.	Communicating with Events
+16.	Asynchronous Code, Callbacks & Promises
+17.	Making HTTP Requests
+18.	Async & Await JS Magic
+19.	Prototypes, Classes, &The New Operator
+20.	Drawing Animations
+21.	Application Design Patterns
+22.	Javascript with the Canvas API
+23.	Make a Secret-Message Sharing App
+24.	Create Node JS Command Line Tools
+25.	Create Your Own Project Runner
+26.	Project Start - E-Commerce App
+27.	Design a Custom Database
+28.	Production-Grade Authentication
+29.	Structuring Javascript Projects
+30.	Image and File Upload
+31.	Building a Shopping Cart
+32.	The Basics of Testing
+33.	Building a Testing Framework From Scratch
+34.	Bonus!
+
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-    Contents Detail    -=-=-=-=-=-=-=-=-=-=-=-
+
+------------    smdtMn    ------------
+
+01 - Welcome, Welcome, Welcome!
+        Course Structure and Projects
+        Watch Before You Start!
+        Setting Up Our Code Editor
+
+
+
+02 - JavaScript Fundamentals - Part 1
+001	Section Intro.mp4
+002	Hello World!.mp4
+003	A Brief Introduction to JavaScript.mp4
+004	Linking a JavaScript File.mp4
+005	Values and Variables.mp4
+007	Data Types.mp4
+008	let, const and var.mp4
+009	Basic Operators.mp4
+010	Operator Precedence.mp4
+012	CHALLENGE #1 Video Solution.mp4
+013	Strings and Template Literals.mp4
+014	Taking Decisions if else Statements.mp4
+015	CHALLENGE #2 Video Solution.mp4
+016	Type Conversion and Coercion.mp4
+017	Truthy and Falsy Values.mp4
+018	Equality Operators = = vs. = = = .mp4
+019	Boolean Logic.mp4
+020	Logical Operators.mp4
+021	CHALLENGE #3 Video Solution.mp4
+022	The switch Statement.mp4
+023	Statements and Expressions.mp4
+024	The Conditional (Ternary) Operator.mp4
+025	CHALLENGE #4 Video Solution.mp4
+026	JavaScript Releases ES5, ES6+ and ESNext.mp4
+
+
+03 - JavaScript Fundamentals - Part 2
+001	Section Intro.mp4
+002	Activating Strict Mode.mp4
+003	Functions.mp4
+004	Function Declarations vs. Expressions.mp4
+005	Arrow Functions.mp4
+006	Functions Calling Other Functions.mp4
+007	Reviewing Functions.mp4
+008	CHALLENGE #1 Video Solution.mp4
+009	Introduction to Arrays.mp4
+010	Basic Array Operations (Methods).mp4
+011	CHALLENGE #2 Video Solution.mp4
+012	Introduction to Objects.mp4
+013	Dot vs. Bracket Notation.mp4
+014	Object Methods.mp4
+015	CHALLENGE #3 Video Solution.mp4
+016	Iteration The for Loop.mp4
+017	Looping Arrays, Breaking and Continuing.mp4
+018	Looping Backwards and Loops in Loops.mp4
+019	The while Loop.mp4
+020	CHALLENGE #4 Video Solution.mp4
+
+
+04 - How to Navigate This Course
+001 Pathways and Section Roadmaps.mp4
+
+
+05 - Developer Skills & Editor Setup
+001 Section Intro.mp4
+003	Setting up Prettier and VS Code.mp4
+004	Installing Node.js and Setting Up a Dev Environment.mp4
+005	Learning Howto Code.mp4
+006	Howto Think Like a Developer Become a Problem Solver!.mp4
+007	Using Google, StackOverflow and MDN.mp4
+008	Debugging (Fixing Errors).mp4
+009	Debugging with the Console and Breakpoints.mp4
+010	Coding Challenge #1.mp4
+
+
+06 - [OPTIONAL] HTML & CSS Crash Course
+001	Section Intro.mp4
+002	Basic HTML Structure and Elements.mp4
+003	Attributes, Classes and IDs.mp4
+004	Basic Styling with CSS.mp4
+005	Introduction to the CSS Box Model.mp4
+
+
+07 - JavaScript in the Browser DOM and Events Fundamentals
+001 Section Intro.mp4
+003	PROJECT#1 Guess My Number!.mp4
+004	What's the DOM and DOM Manipulation.mp4
+005	Selecting and Manipulating Elements.mp4
+006	Handling Click Events.mp4
+007	Implementing the Game Logic.mp4
+008	Manipulating CSS Styles.mp4
+009	Coding Challenge #1.mp4
+010	Implementing Highscores.mp4
+011	Refactoring Our Code The DRY Principle.mp4
+012	PROJECT #2 Modal Window.mp4
+013	Working With Classes.mp4
+014	Handling an Esc Keypress Event.mp4
+015	PROJECT #3 Pig Game.mp4
+016	Rolling the Dice.mp4
+017	Switching the Active Player.mp4
+018	Holding Current Score.mp4
+019	Resetting the Game.mp4
+
+
+08 - How JavaScript Works Behind the Scenes
+001 Section Intro.mp4
+003	An High-Level Overview of JavaScript.mp4
+004	The JavaScript Engine and Runtime.mp4
+005	Execution Contexts and The Call Stack.mp4
+006	Scope and The Scope Chain.mp4
+007	Scoping in Practice.mp4
+008	Variable Environment Hoisting and The TDZ.mp4
+009	Hoisting and TDZ in Practice.mp4
+010	The this Keyword.mp4
+011	The this Keyword in Practice.mp4
+012	Regular Functions vs. Arrow Functions.mp4
+013	Primitives vs. Objects (Primitive vs. Reference Types).mp4
+014	Primitives vs. Objects in Practice.mp4
+
+
+09 - Data Structures, Modern Operators and Strings
+001 Section Intro.mp4
+003	Destructuring Arrays.mp4
+004	Destructuring Objects.mp4
+005	The Spread Operator (...).mp4
+006	Rest Pattern and Parameters.mp4
+007	Short Circuiting (&& and ).mp4
+008	The Nullish Coalescing Operator 0-mp4
+009	Logical Assignment Operators.mp4
+010	Coding Challenge #1.mp4
+011	Looping Arrays The for-of Loop.mp4
+012	Enhanced Object Literals.mp4
+013	Optional Chaining (.).mp4
+014	Looping Objects Object Keys, Values, and Entries.mp4
+015	Coding Challenge #2.mp4
+016	Sets, mp4
+017	Maps Fundamentals.mp4
+018	Maps Iteration.mp4
+019	Summary Which Data Structure to Use.mp4
+020	Coding Challenge #3.mp4
+021	Working With Strings - Part 1.mp4
+022	Working With Strings - Part 2.mp4
+023	Working With Strings - Part 3.mp4
+024	Coding Challenge #4.mp4
+025	String Methods Practice.mp4
+
+
+10 - A Closer Look at Functions
+001 Section Intro.mp4
+003	Default Parameters.mp4
+004	How Passing Arguments Works Value vs. Reference.mp4
+005	First-Class and Higher-Order Functions.mp4
+006	Functions Accepting Callback Functions.mp4
+007	Functions Returning Functions.mp4
+008	The call and apply Methods.mp4
+009	The bind Method.mp4
+010	Coding Challenge #1.mp4
+011	Immediately Invoked Function Expressions (IIFE).mp4
+012	Closures.mp4
+013	More Closure Examples.mp4
+014	Coding Challenge #2.mp4
+
+
+11 - Working With Arrays
+001 Section Intro.mp4
+003	Simple Array Methods.mp4
+004	The new at Method.mp4
+005	Looping Arrays forEach.mp4 006forEach With Maps and Sets.mp4
+007	PROJECT Bankist App.mp4
+008	Creating DOM Elements.mp4
+009	Coding Challenge #1.mp4
+010	Data Transformations map, filter, reduce.mp4
+011	The map Method.mp4
+012	Computing Usernames.mp4
+013	The filter Method.mp4
+014	The reduce Method.mp4
+015	Coding Challenge #2.mp4
+016	The Magic of Chaining Methods.mp4
+017	Coding Challenge #3.mp4
+018	The find Method.mp4
+019	Implementing Login.mp4
+020	Implementing Transfers.mp4
+021	Thefindlndex Method.mp4
+022	some and every.mp4
+023	flat and flatMap.mp4
+024	Sorting Arrays.mp4
+025	More Ways of Creating and Filling Arrays.mp4
+026	Summary Which Array Method to Use.mp4
+027	Array Methods Practice.mp4
+028	Coding Challenge #4.mp4
+
+
+12 - Numbers, Dates, Inti and Timers
+001 Section Intro.mp4
+003	Converting and Checking Numbers.mp4
+004	Math and Rounding.mp4
+005	The Remainder Operator.mp4
+006	Numeric Separators.mp4
+007	Working with Biglnt.mp4
+008	Creating Dates.mp4
+009	Adding Dates to Bankist App.mp4
+010	Operations With Dates.mp4
+011	Internationalizing Dates (Inti).mp4
+012	Internationalizing Numbers (Inti).mp4
+013	Timers setTimeout and setlnterval.mp4
+014	Implementing a Countdown Timer.mp4
+
+
+13 - Advanced DOM and Eve
+001 Section Intro.mp4
+003	PROJECT Bankist Website.mp4
+004	How the DOM Really Works.mp4
+005	Selecting, Creating, and Deleting Elements.mp4
+006	Styles, Attributes and Classes.mp4
+007	Implementing Smooth Scrolling.mp4
+008	Types of Events and Event Handlers.mp4
+009	Event Propagation Bubbling and Capturing.mp4
+010	Event Propagation in Practice.mp4
+011	Event Delegation Implementing Page Navigation.mp4
+012	DOM Traversing.mp4
+013	Building a Tabbed Component.mp4
+014	Passing Arguments to Event Handlers.mp4
+015	Implementing a Sticky Navigation The Scroll Event.mp4
+016	A Better Way The Intersection Observer API.mp4
+017	Revealing Elements on Scroll.mp4
+018	Lazy Loading Images.mp4
+019	Building a Slider Component Part 1.mp4
+020	Building a Slider Component Part 2.mp4
+021	Lifecycle DOM Events.mp4
+022	Efficient Script Loading defer and async.mp4
+
+
+14 - Object-Oriented Programming (OOP) With JavaScript
+001 Section Intro.mp4
+003	What is Object-Oriented Programming.mp4
+004	OOP in JavaScript.mp4
+005	Constructor Functions and the new Operator.mp4
+006	Prototypes, mp4
+007	Prototypal Inheritance and The Prototype Chain.mp4
+008	Prototypal Inheritance on Built-In Objects.mp4
+009	Coding Challenge #1.mp4
+010	ES6 Classes.mp4
+011	Setters and Getters.mp4
+012	Static Methods.mp4
+013	Object.create.mp4
+014	Coding Challenge #2.mp4
+015	Inheritance Between Classes Constructor Functions.mp4
+016	Coding Challenge #3.mp4
+017	Inheritance Between Classes ES6 Classes.mp4
+018	Inheritance Between Classes Object.create.mp4
+019	Another Class Example.mp4
+020	Encapsulation Protected Properties and Methods.mp4
+021	Encapsulation Private Class Fields and Methods.mp4
+022	Chaining Methods.mp4
+023	ES6 Classes Summary.mp4
+024	Coding Challenge #4.mp4
+
+
+15 - Mapty App OOP, Geolocation, External Libraries, and More!
+001 Section Intro.mp4
+003	Project Overview.mp4
+004	Howto Plan a Web Project.mp4
+005	Using the Geolocation API.mp4
+006	Displaying a Map Using Leaflet Library.mp4
+007	Displaying a Map Marker.mp4
+008	Rendering Workout Input Form.mp4
+009	Project Architecture.mp4
+010	Refactoring for Project Architecture.mp4
+011	Managing Workout Data Creating Classes.mp4
+012	Creating a New Workout.mp4
+013	Rendering Workouts.mp4
+014	Move to Marker On Click.mp4
+015	Working with localStorage.mp4
+016	Final Considerations.mp4
+
+
+16 - Asynchronous JavaScript Promises, AsyncAwait, and AJAX
+001 Section Intro.mp4
+003 Asynchronous JavaScript, AJAX and APIs.mp4
+005	Our First AJAX Call XMLHttpRequest.mp4
+006	[OPTIONAL] How the Web Works Requests and Responses.
+007	Welcome to Callback Hell.mp4
+008	Promises and the Fetch API.mp4
+009	Consuming Promises.mp4
+010	Chaining Promises.mp4
+011	Handling Rejected Promises.mp4
+012	Throwing Errors Manually.mp4
+013	Coding Challenge #1.mp4
+014	Asynchronous Behind the Scenes The Event Loop.mp4
+015	The Event Loop in Practice.mp4
+016	Building a Simple Promise.mp4
+017	Promisifying the Geolocation API.mp4
+018	Coding Challenge #2.mp4
+019	Consuming Promises with AsyncAwait.mp4
+020	Error Handling With try...catch.mp4
+021	Returning Values from Async Functions.mp4
+022	Running Promises in Parallel.mp4
+023	Other Promise Combinators race, allSettled and any.mp4
+024	Coding Challenge #3.mp4
+
+
+17 - Modern JavaScript Development Modules, Tooling, and Functional
+001 Section Intro.mp4
+003	An Overview of Modern JavaScript Development.mp4
+004	An Overview of Modules in JavaScript.mp4
+005	Exporting and Importing in ES6 Modules.mp4
+006	Top-Level await (ES2022).mp4
+007	The Module Pattern.mp4
+008	CommonJS Modules.mp4
+009	A Brief Introduction to the Command Line.mp4
+010	Introduction to NPM.mp4
+011	Bundling With Parcel and NPM Scripts.mp4
+012	Configuring Babel and Polyfilling.mp4
+013	Review Writing Clean and Modern JavaScript.mp4
+014	Let's Fix Some Bad Code Part 1.mp4
+015	Declarative and Functional JavaScript Principles.mp4
+016	Let's Fix Some Bad Code Part 2.mp4
+
+
+18 - Forkify App Building a Modern Application
+001 Section Intro.mp4
+003 Project Overview and Planning (I).mp4
+005	Loading a Recipe from API.mp4
+006	Rendering the Recipe.mp4
+007	Listening For load and hashchange Events.mp4
+008	The MVC Architecture.mp4
+009	Refactoring for MVC.mp4
+010	Helpers and Configuration Files.mp4
+011	Event Handlers in MVC Publisher-Subscriber Pattern.mp4
+012	Implementing Error and Success Messages.mp4
+013	Implementing Search Results - Part 1.mp4
+014	Implementing Search Results - Part 2.mp4
+015	Implementing Pagination - Part 1.mp4
+016	Implementing Pagination - Part 2.mp4
+017	Project Planning II.mp4
+018	Updating Recipe Servings.mp4
+019	Developing a DOM Updating Algorithm.mp4
+020	Implementing Bookmarks - Part 1.mp4
+021	Implementing Bookmarks - Part 2.mp4
+022	Storing Bookmarks With localStorage.mp4
+023	Project Planning III.mp4
+024	Uploading a New Recipe - Part 1.mp4
+025	Uploading a New Recipe - Part 2.mp4
+026	Uploading a New Recipe - Part 3.mp4
+027	Wrapping Up Final Considerations.mp4
+
+
+19 - Setting Up Git and Deployment
+001 Section Intro.mp4
+003	Simple Deployment With Netlify.mp4
+004	Setting Up Git and GitHub.mp4
+005	Git Fundamentals.mp4
+006	Pushing to GitHub.mp4
+007	Setting Up Continuous Integration With Netlify.mp4
+
+
+
+old 01 Course Introduction
+001 Welcome to This Course.mp4
+004 Setting up Our Tools, Brackets and Google Chrome.mp4
+
+
+old 02 JavaScript Language Basics
+005 Section Intro.mp4
+007	Introduction to JavaScript.mp4
+008	Getting Started with JavaScript.mp4
+009	Variables and Data Types.mp4
+010	Basic Operators.mp4
+010	Variable Mutation and Type Coercion.mp4
+011	Operator Precedence.mp4
+011	Operators.mp4
+012	If _ else Statements.mp4
+013	Boolean Logic and Switch Statements.mp4
+014	Coding Challenge 1.mp4
+015	Boolean Logic.mp4
+015	Coding Challenge 1_ Solution.mp4
+016	Functions.mp4
+016	The Ternary Operator and Switch Statements.mp4
+017	Statements and Expressions.mp4
+017	Truthy and Falsy Values and Equality Operators.mp4
+018	Arrays, mp4
+019	Objects and Properties.mp4
+020	Objects and Methods.mp4
+021	Function Statements and Expressions.mp4
+021	Loops and Iteration.mp4
+022	Coding Challenge 2.mp4
+023	Coding Challenge 2_ Solution.mp4
+023	Coding Challenge 3.mp4
+024	Coding Challenge 3 Solution.mp4
+024 Important Note. ES5_ ES6_ ESE5 and ESE6.mp4
+027	Coding Challenge 4.mp4
+028	Coding Challenge 4 Solution.mp4
+030	Coding Challenge 5.mp4
+031	Coding Challenge 5 Solution Part 1.mp4
+032	Coding Challenge 5 Solution Part 2.mp4
+
+
+old 03 How JavaScript Works Behind the Scenes
+025 Section Intro.mp4
+027	How Our Code Is Executed, JavaScript Parsers and Engines.mp4
+028	Execution Contexts and the Execution Stack.mp4
+029	Execution Contexts in Detail, Creation and Execution Phases and Hoisting.mp4
+030	Hoisting in Practice.mp4
+031	Scoping and the Scope Chain.mp4
+032	The 'this' Keyword.mp4
+033	The 'this' Keyword in Practice.mp4
+
+
+old 04 JavaScript in the Browser, DOM Manipulation and Events
+034 Section Intro.mp4
+036	The DOM and DOM Manipulation.mp4
+037	5-Minute HTML and CSS Crash Course.mp4
+038	Project Setup and Details.mp4
+039	First DOM Access and Manipulation.mp4
+040	Events and Event Handling, Rolling the Dice.mp4
+041	Updating Scores and Changing the Active Player.mp4
+042	Implementing Our ’Hold’ Function and the DRY Principle.mp4
+043	Creating a Game Initialization Function.mp4
+044	Finishing Touches, State Variables.mp4
+045	Coding Challenge 3.mp4
+046	Coding Challenge 3, Solution, Part 1 .mp4
+047	Coding Challenge 3, Solution, Part 2.mp4
+048	Coding Challenge 3, Solution, Part 3.mp4
+
+
+old 05 Advanced JavaScript, Objects and Functions
+049 Section Intro.mp4
+051	Everything Is an Object, Inheritance and the Prototype Chain.mp4
+052	Creating Objects, Function Constructors.mp4
+053	The Prototype Chain in the Console.mp4
+054	Creating Objects, Object_create.mp4
+055	Primitives vs, Objects.mp4
+056	First Class Functions, Passing Functions as Arguments.mp4
+057	First Class Functions, Functions Returning Functions.mp4
+058	Immediately Invoked Function Expressions (IIFE).mp4
+059	Closures.mp4
+060	Bind, Call and Apply.mp4
+061	Coding Challenge 4.mp4
+062	Coding Challenge 4, Solution, Part 1 .mp4
+063	Coding Challenge 4, Solution, Part 2.mp4
+
+
+old 06 Putting It All Together, The Budget App Project
+064 Section Intro.mp4
+066	Project Setup and Details.mp4
+067	Project Planning and Architecture, Step 1.mp4
+068	Implementing the Module Pattern.mp4
+069	Setting up the First Event Listeners.mp4
+070	Reading Input Data.mp4
+071	Creating an Initialization Function.mp4
+072	Creating Income and Expense Function Constructors.mp4
+073	Adding a New Item to Our Budget Controller.mp4
+074	Adding a New Item to the Ul.mp4
+075	Clearing Our Input Fields.mp4
+076	Updating the Budget, Controller.mp4
+077	Updating the Budget, Budget Controller.mp4
+078	Updating the Budget, Ul Controller.mp4
+079	Project Planning and Architecture, Step 2.mp4
+080	Event Delegation.mp4
+081	Setting up the Delete Event Listener Using Event Delegation.mp->
+082	Deleting an Item from Our Budget Controller.mp4
+083	Deleting an Item from the Ul.mp4
+084	Project Planning and Architecture, Step 3.mp4
+085	Updating the Percentages, Controller.mp4
+086	Updating the Percentages, Budget Controller.mp4
+087	Updating the Percentages, Ul Controller.mp4
+088	Formatting Our Budget Numbers, String Manipulation.mp4
+089	Displaying the Current Month and Year.mp4
+090	Finishing Touches, Improving the UX.mp4
+091	We8217ve Made It! Final Considerations.mp4
+
+
+old 07 Get Ready for the Future_ ES6 _ ESE5
+092 Section Intro.mp4
+094	What's new in ES6 _ ESE5.mp4
+095	Variable Declarations with let and const.mp4
+096	Blocks and IIFEs.mp4
+097	Strings in ES6_ ESE5.mp4
+098	Arrow Functions, Basics.mp4
+099	Arrow Functions, Lexical 'this' Keyword.mp4
+100	Destructuring, mp4
+101	Arrays in ES6, ESE5.mp4
+102	The Spread Operator.mp4
+103	Rest Parameters.mp4
+104	Default Parameters.mp4
+105	Maps.mp4
+106	Classes.mp4
+107	Classes with Subclasses.mp4
+108	Coding Challenge 5.mp4
+109	Coding Challenge 5, Solution.mp4
+110	Howto use ESE5, ES6Today!.mp4
+
+
+old 08 Final Course Exam_ 30 Questions to Test Your JavaScript Knowledge
+Quiz 1-30 Questions to Test Your JavaScript Knowledge
+
+old 09 Conclusion
+112 Where to Go from Here.mp4
+
+
+
+
+------------    Contents: colt    ------------
+
+1.	Introduction
+1.	How This Course Works.mp4
+2.	JS, ECMA, TCB9 What Do They Mean.mp4
+3.	The Tools You Need.mp4
+5. A Quick Note About MDN.mp4
+
+
+2.	JS Values & Variables
+1.	Goals & Primitives.mp4
+2.	Running Code in the JS Console.mp4
+3.	Introducing Numbers.mp4
+4.	NaN & Infinity.mp4
+5.	Numbers Quiz.mp4
+6.	Variables & Let.mp4
+7.	Unary Operators.mp4
+8.	Introducing Const.mp4
+9.	The Legacy of Var.mp4
+10.	Variables Quiz.mp4
+
+
+3.	How to Model Data Efficiently
+1.	Booleans Intro.mp4
+2.	Strings.mp4
+3.	String Indices.mp4
+4.	String Methods.mp4
+5.	More String Methods.mp4
+6.	Strings Quiz.mp4
+7.	String Escape Characters.mp4
+8.	String Template Literals.mp4
+9.	Null & Undefined.mp4
+10.	The Math Object & Random Numbers.mp4
+11.	typeof operator.mp4
+12.	parselnt & parseFloat.mp4
+
+
+4.	Controlling Program Logic and Flow
+
+
+
+5.	Capture Collections of Data with Arrays
+
+
+
+6.	Objects - The Core of Javascript
+
+
+
+7.	The World of Loops
+
+
+
+8.	Writing Reusable Code with Functions
+
+
+
+9.	An Advanced Look at Functions
+
+
+
+10.	Apply Functions to Collections of Data
+
+
+
+11.	A Few Miscellaneous JS Features
+
+
+
+12.	Object Methods and the 'This' Keyword 
+
+
+
+13. JS In the Browser - DOM Manipulation
+
+
+
+14.	Twisting the DOM to Our Will!
+
+
+
+15.	Communicating with Events
+
+
+
+16.	Asynchronous Code, Callbacks & Promises
+
+
+
+17.	Making HTTP Requests
+
+
+
+18.	Async & Await JS Magic
+
+
+
+19.	Prototypes, Classes, &The New Operator
+
+
+
+20.	Drawing Animations
+
+
+
+21.	Application Design Patterns
+
+
+
+22.	Javascript with the Canvas API
+
+
+
+23.	Make a Secret-Message Sharing App
+
+
+
+24.	Create Node JS Command Line Tools
+
+
+
+25.	Create Your Own Project Runner
+
+
+
+26.	Project Start - E-Commerce App
+
+
+
+27.	Design a Custom Database
+
+
+
+28.	Production-Grade Authentication
+
+
+
+29.	Structuring Javascript Projects
+
+
+
+30.	Image and File Upload
+
+
+
+31.	Building a Shopping Cart
+
+
+
+32.	The Basics of Testing
+
+
+
+33.	Building a Testing Framework From Scratch
+
+
+
+34.	Bonus!
